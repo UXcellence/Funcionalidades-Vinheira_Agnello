@@ -82,7 +82,12 @@ Funcionalidades-Vinheira_Agnello-main/
    git clone https://github.com/UXcellence/Funcionalidades-Vinheira_Agnello.git
    ```
 
-2. Abra o arquivo `index.html` diretamente no navegador.
+2. Navegue até a pasta do projeto:
+   ```bash
+   cd Site-Vinheira_Agnello
+   ```
+
+3. Abra o arquivo `index.html` diretamente no navegador.
 
 > ⚠️ O projeto utiliza `prompt()` para entrada de dados. Certifique-se de que o navegador não está bloqueando pop-ups. Os resultados dos exercícios 1 a 6 e 8 a 9 são exibidos no **console do navegador** (F12). O exercício 7 exibe os dados diretamente na página.
 
