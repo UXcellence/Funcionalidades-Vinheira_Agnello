@@ -79,7 +79,7 @@ Funcionalidades-Vinheira_Agnello-main/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Vinheria/WEB-DEVEOPMENT.git
+   git clone https://github.com/UXcellence/Funcionalidades-Vinheira_Agnello.git
    ```
 
 2. Abra o arquivo `index.html` diretamente no navegador.
