@@ -84,7 +84,7 @@ Funcionalidades-Vinheira_Agnello-main/
 
 2. Navegue até a pasta do projeto:
    ```bash
-   cd Site-Vinheira_Agnello
+   cd Funcionalidades-Vinheira_Agnello
    ```
 
 3. Abra o arquivo `index.html` diretamente no navegador.
